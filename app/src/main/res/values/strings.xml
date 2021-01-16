@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+    <!-- Notification Preferences -->
+    <string name="attachment_title">Enable Notification Sound</string>
+    <string name="notify_off">No notification would be given</string>
+    <string name="notify_on">Notification would be given when you are in the proximity of your task area</string>
+    <string name="sound_off">Allow notification to enable this setting</string>
+    <string name="sound_on">Sound would play when the notification would given</string>
+</resources>
